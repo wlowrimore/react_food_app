@@ -5,7 +5,7 @@ This application is part of the Udemy ReactJs course.  It features the use of th
 
 <img src='src/assets/foodPic.png' alt='example' />
 
-Please, feel free to try it out on the <a href='' target='_blank' rel='noreferrer'>live site</a>.
+Please, feel free to try it out on the <a href='https://delishmeals.vercel.app/' target='_blank' rel='noreferrer'>live site</a>.
 
 ## Contact Me...
 [wlowrimore@gmail.com](mailto:wlowrimore@gmail.com)<br>
